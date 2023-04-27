@@ -4,7 +4,7 @@ Esse repositório contém desafios para Desenvolvedores `Back-end`, `Front-end` 
 ### Para participar, siga os procedimentos:
 - Vá na aba de Issues desse repositório;
 - Analise o desafio referente à sua stack;
-  - Back-end (Node.js)
+  - ~~Back-end (Node.js)~~ (DESAFIO ENCERRADO)
   - Front-end Web (React.js)
   - Mobile (Flutter)
 - Faça o Fork desse reposítório;
