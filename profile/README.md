@@ -6,7 +6,7 @@ Esse repositório contém desafios para Desenvolvedores `Back-end`, `Front-end` 
 - Analise o desafio referente à sua stack;
   - ~~Back-end (Node.js)~~ (ENCERRADO)
   - ~~Front-end Web (React.js)~~ (ENCERRADO)
-  - Mobile (Flutter) (EM CONSTRUÇÃO)
+  - Mobile (Flutter)
 - Faça o Fork desse reposítório;
 - Crie um projeto local referente ao desafio/stack que escolheu; 
 - Empurre o projeto para o seu fork;
